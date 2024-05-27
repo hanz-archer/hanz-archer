@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanz-archer&label=Profile%20views&color=0e75b6&style=flat" alt="hanz-archer" /> </p>
 
-- 🔭 I’m currently working on [Kwentas Klaras](https://kwentasklaraspmis.pythonanywhere.com/login/)
+- 🔭 I’m currently working on [Kwentas Klaras Project Management Information System Capstone Project](https://kwentasklaraspmis.pythonanywhere.com/login/)
 
 - 🌱 I’m currently learning **Django, React-Native, Android Studio, Tailwind, Node.js, Ja**
 
