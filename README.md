@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django, React-Native, Android Studio, Tailwind, Node.js, JavaScript, Tailwind Css**
 
-- 👨‍💻 All of my projects are available at [hanzarcher.pythonanywhere.com](hanzarcher.pythonanywhere.com)
+- 👨‍💻 Check me at [hanzarcher.pythonanywhere.com](hanzarcher.pythonanywhere.com)
 
 - 📫 How to reach me **dalubatanhans@gmail.com**
 
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanz-archer&show_icons=true&locale=en" alt="hanz-archer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanz-archer&" alt="hanz-archer" /></p>
+
