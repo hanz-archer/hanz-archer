@@ -24,9 +24,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanz-archer&show_icons=true&locale=en&layout=compact" alt="hanz-archer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanz-archer&show_icons=true&locale=en" alt="hanz-archer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanz-archer&" alt="hanz-archer" /></p>
-
