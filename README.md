@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Hans Archer</h1>
+<h1 align="center">Hi! I'm Hans Arche</h1>
 
 ###
 
